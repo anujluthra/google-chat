@@ -1,5 +1,4 @@
 require 'xmpp4r/client'
-include Jabber
 
 class GoogleChat
   include Jabber
