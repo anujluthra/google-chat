@@ -1,0 +1,6 @@
+easily send one-way pings to other user
+
+<pre>
+chat = GoogleChat.new('john.citizen@gmail.com', 'password', 'Testing')
+chat.send('jim.citizen@gmail.com', "g'day mate!")
+</pre>
